@@ -1,2 +1,14 @@
-# my-deepseek-llm
-这是一个模拟用的项目
+# My DeepSeek LLM
+
+A simple DeepSeek LLM project template.
+
+## Structure
+- `src/` - Source code
+- `tests/` - Test files
+- `.github/` - GitHub workflows and templates
+
+## Usage
+```bash
+pip install -r requirements.txt
+pytest tests/
+```
